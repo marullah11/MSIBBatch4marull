@@ -1,0 +1,4 @@
+ini adalah proses remote
+yang mana kita mengendalikan repository yang ada di dalam github
+dengan gitbash yang ad di local kita
+dengan ini, kita dapat upload file atau codingan dengan menggunakan lokal atau gitbash di lokal kita
